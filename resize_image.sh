@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#test
+
 if (( $# != 2 )); then
     echo "Usage: ./resize_image <file.jpg> <pixels>"
     exit
